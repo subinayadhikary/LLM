@@ -1,0 +1,4 @@
+labels,Accuracy,Misclassification,Precision,Sensitivity,Specificity,F1 score
+riot,1,0,1,1,1,1
+physical_assault,0.977777778,0.022222222,1,0.933333333,1,0.965517241
+evidence_inconsistency,0.977777778,0.022222222,1,0.933333333,1,0.965517241

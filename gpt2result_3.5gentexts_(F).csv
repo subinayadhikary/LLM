@@ -1,0 +1,46 @@
+﻿Text,Assigned Tag,Generated Tag
+The victim was punched and kicked repeatedly by the group of attackers until he lost consciousness.,physical_assault,physical_assault 
+"The accused used a baseball bat to strike the victim on the head, causing severe injuries.",physical_assault,physical_assault 
+"The victim was stabbed multiple times by the perpetrator, resulting in life-threatening wounds.",physical_assault,life_imprisonment 
+The assailant grabbed the victim by the hair and slammed their head into a nearby wall.,physical_assault,physical_assault 
+"The defendant punched the victim in the face, breaking their nose and causing severe bleeding.",physical_assault,physical_assault 
+"The perpetrator used a metal pipe to beat the victim, leaving them with multiple broken bones.",physical_assault,physical_assault 
+The victim was choked and strangled by the attacker until they passed out.,physical_assault,physical_assault 
+"The accused used a taser to shock the victim repeatedly, causing them to convulse and fall to the ground.",physical_assault,physical_assault 
+"The perpetrator threw a heavy object at the victim, striking them in the head and causing a concussion.",physical_assault,physical_assault 
+"The victim was pushed down a flight of stairs by the attacker, resulting in several broken bones.",physical_assault,physical_assault 
+"The defendant used a knife to slash the victim's face, leaving them with permanent scarring.",physical_assault,physical_assault 
+"The attacker used a hammer to strike the victim's hands, causing severe fractures and dislocations.",physical_assault,physical_assault 
+"The victim was hit by a car driven by the perpetrator, resulting in multiple injuries and hospitalization.",physical_assault,physical_assault 
+The accused used a crowbar to break into the victim's home and assault them with the weapon.,physical_assault,physical_assault 
+"The perpetrator kicked the victim repeatedly in the ribs, causing several fractures and internal bleeding.",physical_assault,physical_assault 
+"The protest against police brutality in the city turned into a violent riot, with shops being looted and set on fire, and innocent bystanders being attacked.",riot,riot 
+"The clash between two religious groups in the town resulted in a full-blown riot, with people being beaten and killed on the streets.",riot,riot 
+"The peaceful demonstration for equal rights turned into a riot when the police used excessive force, causing chaos and destruction in the city.",riot,riot 
+"The political rally turned violent when supporters of opposing parties clashed, leading to a riot with widespread damage to property and injuries.",riot,riot 
+"The soccer match between rival teams turned into a riot when fans started throwing stones and bottles at each other, causing injuries and chaos.",riot,riot 
+"The strike by factory workers turned into a riot when the police resorted to lathi charge, leading to violent clashes and damage to property.",riot,riot 
+"The student protest for better education turned into a riot when the police used tear gas and water cannons, leading to widespread chaos and injuries.",riot,riot 
+"The communal tension between two groups turned into a riot when one group attacked the other, leading to deaths and destruction of property.",riot,riot 
+"The peaceful procession turned into a riot when the police started using force to disperse the crowd, leading to violent clashes and injuries.",riot,riot 
+"The protest against the government's policies turned into a riot when the police started using rubber bullets and batons, leading to chaos and destruction.",riot,riot 
+"The farmers' protest turned into a riot when the police used force to stop them from entering the city, leading to violent clashes and damage to property.",riot,riot 
+"The labor strike turned into a riot when the management called in the police to disperse the crowd, leading to violent clashes and injuries.",riot,riot 
+"The political rally turned into a riot when supporters of opposing parties started attacking each other, leading to chaos and destruction of property.",riot,riot 
+"The protest against the construction of a dam turned into a riot when the police used force to disperse the crowd, leading to violent clashes and injuries.",riot,riot 
+"The communal tension between two groups turned into a riot when a religious procession was attacked, leading to widespread violence and destruction.",riot,riot 
+"The witness statements seem to contradict each other, casting doubt on the accuracy of the testimony.",evidence_inconsistency,evidence_inconsistency 
+"The police report and witness statements do not match up, suggesting a potential inconsistency in the evidence.",evidence_inconsistency,evidence_inconsistency 
+"The defendant's alibi conflicts with the timeline presented by the prosecution, raising questions about the accuracy of both accounts.",evidence_inconsistency,evidence_inconsistency 
+There are discrepancies in the physical evidence that do not align with the prosecution's theory of the crime.,evidence_inconsistency,evidence_inconsistency 
+The witness's account of the events leading up to the crime differs significantly from the defendant's version of events.,evidence_inconsistency,evidence_inconsistency 
+"The victim's statement contradicts the medical evidence, creating doubt about the accuracy of both accounts.",evidence_inconsistency,evidence_inconsistency 
+"The prosecution's case relies heavily on circumstantial evidence, which may not be sufficient to prove guilt beyond a reasonable doubt.",evidence_inconsistency,evidence_inconsistency 
+"The defendant's behavior following the crime is inconsistent with someone who committed the offense, casting doubt on their guilt.",evidence_inconsistency,Others 
+"There are inconsistencies in the statements made by the prosecution's key witness, which may undermine their credibility.",evidence_inconsistency,evidence_inconsistency 
+"The defendant's confession contains details that do not match up with the physical evidence, creating doubt about the veracity of their admission.",evidence_inconsistency,evidence_inconsistency 
+"The prosecution's case rests on the testimony of a witness with a history of lying, raising doubts about the accuracy of their account.",evidence_inconsistency,evidence_inconsistency 
+"The defendant's alibi is supported by multiple witnesses, while the prosecution's case relies on the testimony of a single witness.",evidence_inconsistency,evidence_inconsistency 
+"The timeline presented by the prosecution's case does not align with the physical evidence, creating doubt about the accuracy of both accounts.",evidence_inconsistency,evidence_inconsistency 
+The victim's statement contains inconsistencies that cast doubt on their credibility as a witness.,evidence_inconsistency,evidence_inconsistency 
+"The prosecution's theory of the crime relies on a chain of events that seems unlikely to have occurred, raising questions about the accuracy of their case.",evidence_inconsistency,evidence_inconsistency 
